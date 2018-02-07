@@ -2,6 +2,9 @@ hey this is a test document
 
 updating the text of this for testing purposes.
 
+local changes to test2
+go here
+
 remote changes are also
 taking place
 in this file!!
